@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Y-Du-u
+- 👋 Hi, I’m @Yu
 - 👀 I’m interested in image steganalysis
 - 🌱 I’m currently learning steganalysis
 - 💞️ I’m looking to collaborate on ...
